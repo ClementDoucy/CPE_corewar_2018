@@ -1,0 +1,13 @@
+asm/asm
+corewar/corewar
+*~
+#*#
+*.o
+*.gc*
+vgcore.*
+a.out
+.vscode
+*.a
+unit_tests
+asm_ref
+ref
